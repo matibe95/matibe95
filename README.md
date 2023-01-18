@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### Hi, I'm Matías 👋👨🏻‍💻
+```js
+const matibe = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Java],
+  tools: [React, Styled-Components],
+}
+```
 <!--
 **matibe95/matibe95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
