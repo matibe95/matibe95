@@ -1,4 +1,4 @@
-### Hi, I'm Matías 👋👨🏻‍💻
+### Hi, I'm Matías 👋
 ```js
 const matibe = {
   pronouns: "he" | "him",
