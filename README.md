@@ -6,6 +6,8 @@ const matibe = {
   tools: [React, Styled-Components],
 }
 ```
+Mis trayectoria 📜:
+- [Portfolio](https://matiasbellini.vercel.app)
 
 You can find me 🌎:
 - [Twitter](https://twitter.com/__matibe)
