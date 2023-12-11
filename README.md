@@ -3,14 +3,13 @@
 const matibe = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Styled-Components],
+  tools: [React, Angular, Laravel],
 }
 ```
 Mis trayectoria 📜:
 - [Portfolio](https://matiasbellini.vercel.app)
 
 You can find me 🌎:
-- [Twitter](https://twitter.com/__matibe)
 - [Instagram](https://instagram.com/__matibe)
 
 <!--
